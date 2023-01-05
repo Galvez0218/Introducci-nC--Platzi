@@ -1,0 +1,14 @@
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\bin\Debug\netcoreapp3.1\hola mundo1.exe
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\bin\Debug\netcoreapp3.1\hola mundo1.deps.json
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\bin\Debug\netcoreapp3.1\hola mundo1.runtimeconfig.json
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\bin\Debug\netcoreapp3.1\hola mundo1.runtimeconfig.dev.json
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\bin\Debug\netcoreapp3.1\hola mundo1.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\bin\Debug\netcoreapp3.1\hola mundo1.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.csproj.AssemblyReference.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.AssemblyInfoInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.AssemblyInfo.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\hola mundo1\hola mundo1\obj\Debug\netcoreapp3.1\hola mundo1.genruntimeconfig.cache

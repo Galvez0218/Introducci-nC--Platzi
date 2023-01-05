@@ -1,0 +1,20 @@
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\bin\Debug\netcoreapp3.1\Hola mundo grafico.exe
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\bin\Debug\netcoreapp3.1\Hola mundo grafico.deps.json
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\bin\Debug\netcoreapp3.1\Hola mundo grafico.runtimeconfig.json
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\bin\Debug\netcoreapp3.1\Hola mundo grafico.runtimeconfig.dev.json
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\bin\Debug\netcoreapp3.1\Hola mundo grafico.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\bin\Debug\netcoreapp3.1\Hola mundo grafico.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.csproj.AssemblyReference.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\App.g.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico_MarkupCompile.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico_MarkupCompile.lref
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.g.resources
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.AssemblyInfoInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.AssemblyInfo.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\Hola mundo grafico\Hola mundo grafico\obj\Debug\netcoreapp3.1\Hola mundo grafico.genruntimeconfig.cache
