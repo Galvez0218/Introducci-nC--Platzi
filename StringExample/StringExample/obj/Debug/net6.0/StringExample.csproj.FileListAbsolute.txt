@@ -1,0 +1,15 @@
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\bin\Debug\net6.0\StringExample.exe
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\bin\Debug\net6.0\StringExample.deps.json
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\bin\Debug\net6.0\StringExample.runtimeconfig.json
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\bin\Debug\net6.0\StringExample.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\bin\Debug\net6.0\StringExample.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.AssemblyReference.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfoInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfo.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\refint\StringExample.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\StringExample.genruntimeconfig.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\StringExample\StringExample\obj\Debug\net6.0\ref\StringExample.dll

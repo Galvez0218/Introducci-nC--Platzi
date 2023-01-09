@@ -1,0 +1,14 @@
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\bin\Debug\netcoreapp3.1\squareArea.exe
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\bin\Debug\netcoreapp3.1\squareArea.deps.json
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\bin\Debug\netcoreapp3.1\squareArea.runtimeconfig.json
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\bin\Debug\netcoreapp3.1\squareArea.runtimeconfig.dev.json
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\bin\Debug\netcoreapp3.1\squareArea.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\bin\Debug\netcoreapp3.1\squareArea.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.csproj.AssemblyReference.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.AssemblyInfoInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.AssemblyInfo.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\squareArea\squareArea\obj\Debug\netcoreapp3.1\squareArea.genruntimeconfig.cache

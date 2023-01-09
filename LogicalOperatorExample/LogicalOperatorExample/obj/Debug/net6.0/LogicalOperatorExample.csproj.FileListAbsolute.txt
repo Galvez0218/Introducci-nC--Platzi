@@ -1,0 +1,15 @@
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.exe
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.deps.json
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.runtimeconfig.json
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\bin\Debug\net6.0\LogicalOperatorExample.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.csproj.AssemblyReference.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.AssemblyInfoInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.AssemblyInfo.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\refint\LogicalOperatorExample.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\LogicalOperatorExample.genruntimeconfig.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\LogicalOperatorExample\LogicalOperatorExample\obj\Debug\net6.0\ref\LogicalOperatorExample.dll

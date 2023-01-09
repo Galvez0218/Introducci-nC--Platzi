@@ -1,0 +1,15 @@
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\bin\Debug\net6.0\manejoStrings.exe
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\bin\Debug\net6.0\manejoStrings.deps.json
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\bin\Debug\net6.0\manejoStrings.runtimeconfig.json
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\bin\Debug\net6.0\manejoStrings.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\bin\Debug\net6.0\manejoStrings.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.csproj.AssemblyReference.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.AssemblyInfoInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.AssemblyInfo.cs
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\refint\manejoStrings.dll
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.pdb
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\manejoStrings.genruntimeconfig.cache
+D:\PROGRAMAS AUTOESTUDIO\C#\manejoStrings\manejoStrings\obj\Debug\net6.0\ref\manejoStrings.dll
